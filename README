@@ -1,0 +1,21 @@
+This project demonstrates the following features:
+
+	* Determining whether or not a device is plugged in
+	* Receiving notifications when the power state changes
+	* Enabling/disabling the Auto-Lock based upon the power state
+	
+The project contains a Settings bundle to allow the user to dictate the behavior of the 
+application when it is plugged in.
+
+If you have any questions about this source code, you can contact me in the following ways:
+
+* Twitter: neilco
+* Email: neilco@gmail.com
+* iChat: neilcowburn
+
+You are free to use this source code in both commercial and non-commercial applications. 
+
+This source code is to accompany the blog post at the URL below:
+
+http://www.neilcowburn.com/2009/07/28/disable-auto-lock-on-the-iphone-when-plugged-in
+
